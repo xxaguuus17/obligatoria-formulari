@@ -1,0 +1,45 @@
+/**BODY**/
+
+body{
+    background-color: #D0ECE7;
+}
+
+
+
+/**HEADER**/
+
+header{
+   margin: 0;
+}
+body {
+    margin: 0;
+}
+
+
+.headerlogo{
+    background-color: #7FB3D5;
+   
+}
+.headerlogo img{
+    max-width: 600px;
+}
+
+.Enlaces a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+   
+}
+
+.Enlaces {
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+
+
+
+
